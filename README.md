@@ -1,4 +1,4 @@
-# Getting Started with PySpark
+# Getting Started with PySpark in Cloudera Machine Learning (CML)
 
 This baseline project shows how to interact with PySpark on Yarn
 on Cloudera Data Science Workbench. To begin, open an IPython workbench.
@@ -16,4 +16,4 @@ variable. Click the "Environment" tab under your project settings.
 Modify the default files to get started with your own project.
 
 * `README.md` -- This project's readme in Markdown format.
-* `pi.py` -- The simplest PySpark example script.
+
