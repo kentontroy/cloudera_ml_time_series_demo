@@ -1,0 +1,14 @@
+pip install pandas
+pip install joblib
+pip install matplotlib
+pip install scikit-learn
+pip install scipy
+pip install seaborn
+pip install sklearn
+pip install sktime
+pip install xgboost
+pip install numpy
+pip install pmdarima
+pip install flask
+pip install boto
+pip install boto3

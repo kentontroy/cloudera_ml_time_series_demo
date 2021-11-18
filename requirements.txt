@@ -1,0 +1,14 @@
+pandas
+joblib
+matplotlib
+scikit-learn
+scipy
+seaborn
+sklearn
+sktime
+xgboost
+numpy
+pmdarima
+flask
+boto
+boto3
